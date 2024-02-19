@@ -1,3 +1,6 @@
+## Name: Shree Lekha.S
+## Register number:212223110052
+
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
